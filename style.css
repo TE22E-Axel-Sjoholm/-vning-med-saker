@@ -8,14 +8,13 @@ border: 2px solid black;
 h2{
 text-align: center;
 }
-div{
-    border: 1px solid black;
 
-
-}
 .artikel{
 background-color: rgb(175, 175, 175);
 margin: 17px;
 padding: 20px;
-
+border: 1px solid black;
+}
+body{
+    background-image: url(/img/showcase.jpg);
 }
